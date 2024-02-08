@@ -27,9 +27,3 @@ This Python script implements a simple "Guess the Number" game where the user tr
 
 **Note:**
 - Ensure that the input provided during the game is a valid integer between 1 and 100 to avoid errors.
-
-**Contributing:**
-- Contributions, improvements, and suggestions are welcome. Fork the repository, make your changes, and submit a pull request.
-
-**License:**
-- This project is licensed under the MIT License. See the LICENSE file for details.
